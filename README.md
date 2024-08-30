@@ -1,3 +1,3 @@
 # Automated-Trading-System
-## Dresciption
+## Description
 Learning Project to write an automated Tradingsystem
